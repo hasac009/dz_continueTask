@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\людина-машина-взаємодія\TaskContinue\TaskContinue\bin\Debug\net7.0\TaskContinue.exe
+C:\Users\user\Desktop\людина-машина-взаємодія\TaskContinue\TaskContinue\bin\Debug\net7.0\TaskContinue.deps.json
+C:\Users\user\Desktop\людина-машина-взаємодія\TaskContinue\TaskContinue\bin\Debug\net7.0\TaskContinue.runtimeconfig.json
+C:\Users\user\Desktop\людина-машина-взаємодія\TaskContinue\TaskContinue\bin\Debug\net7.0\TaskContinue.dll
+C:\Users\user\Desktop\людина-машина-взаємодія\TaskContinue\TaskContinue\bin\Debug\net7.0\TaskContinue.pdb
+C:\Users\user\Desktop\людина-машина-взаємодія\TaskContinue\TaskContinue\obj\Debug\net7.0\TaskContinue.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\людина-машина-взаємодія\TaskContinue\TaskContinue\obj\Debug\net7.0\TaskContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\людина-машина-взаємодія\TaskContinue\TaskContinue\obj\Debug\net7.0\TaskContinue.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\людина-машина-взаємодія\TaskContinue\TaskContinue\obj\Debug\net7.0\TaskContinue.AssemblyInfo.cs
+C:\Users\user\Desktop\людина-машина-взаємодія\TaskContinue\TaskContinue\obj\Debug\net7.0\TaskContinue.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\людина-машина-взаємодія\TaskContinue\TaskContinue\obj\Debug\net7.0\TaskContinue.dll
+C:\Users\user\Desktop\людина-машина-взаємодія\TaskContinue\TaskContinue\obj\Debug\net7.0\refint\TaskContinue.dll
+C:\Users\user\Desktop\людина-машина-взаємодія\TaskContinue\TaskContinue\obj\Debug\net7.0\TaskContinue.pdb
+C:\Users\user\Desktop\людина-машина-взаємодія\TaskContinue\TaskContinue\obj\Debug\net7.0\TaskContinue.genruntimeconfig.cache
+C:\Users\user\Desktop\людина-машина-взаємодія\TaskContinue\TaskContinue\obj\Debug\net7.0\ref\TaskContinue.dll
